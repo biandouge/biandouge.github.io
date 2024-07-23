@@ -1,0 +1,6 @@
+baseURL = "http://<biandouge>.github.io/<biandouge.github.io>/"
+languageCode = "en-us"
+title = "biandouge's blog"
+theme = "kross"
+
+# Add other configuration options as needed
